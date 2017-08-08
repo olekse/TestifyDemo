@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "G:\\SimpleOCR\\Testify\\nexusdialog\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\OleksandrSerediuk\\.android\\build-cache\\56d8818edbb6c5b9b63a3d4ba089171032d2e1f1\\output\\res\\values-w360dp-v13\\values-w360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

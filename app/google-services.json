@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459341201688",
+    "firebase_url": "https://testifyapp-a8341.firebaseio.com",
+    "project_id": "testifyapp-a8341",
+    "storage_bucket": "testifyapp-a8341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459341201688:android:612bcd3cb09730c9",
+        "android_client_info": {
+          "package_name": "com.olek.testify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459341201688-g4q9oualigapc7bmv3pq4dlih4i25fh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olek.testify",
+            "certificate_hash": "572cdce4beb5415b0a0c4eb16aa9206dd69f564b"
+          }
+        },
+        {
+          "client_id": "459341201688-a45mj19gujjnnr4j2b4hutlucja2icrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoSj6X3_Muy4-okUQH1o6mjXutqolLc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459341201688-a45mj19gujjnnr4j2b4hutlucja2icrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
